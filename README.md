@@ -99,13 +99,18 @@ Below is a table indicating the papers cited in the survey:
 
 # Research Papers on Multimodal Large Language Models
 
-1.Education(Language/STEM)
-2.Medicine/Healthcare
-3.Multimodal Language Models
-4.Evaluation and Benchmarking
-5.Applications and Use Cases
-6.Technical Development and Challenges
-7.Ethics and Practical Considerations
+
+# Topics Summary
+
+| Topic                                | Description                                                                                                                                                                                                                                 |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Education (Language/STEM)**        | Covers the use of language models and multimodal approaches in education, focusing on both language learning and STEM subjects. Explores how AI can enhance learning experiences and educational outcomes.                                    |
+| **Medicine/Healthcare**              | Discusses the applications of language models and multimodal generation in medicine and healthcare. Includes topics such as medical image analysis, patient care, personalized medicine, and healthcare recommendations.                    |
+| **Multimodal Language Models**       | Examines the development and capabilities of multimodal language models that integrate text, image, and audio data. Focuses on how these models comprehend and generate multimodal content.                                                |
+| **Evaluation and Benchmarking**      | Explores methods for evaluating and benchmarking the performance of multimodal language models. Includes metrics, datasets, and frameworks used to assess the accuracy, efficiency, and effectiveness of these models.                     |
+| **Applications and Use Cases**       | Provides real-world applications and use cases of multimodal language models across various industries. Highlights innovative uses in fields such as advertising, entertainment, education, and personalized content generation.             |
+| **Technical Development and Challenges** | Discusses the technical aspects of developing multimodal language models, including model architecture, training methods, and integration with other AI systems. Addresses challenges such as scalability, data integration, and model robustness. |
+| **Ethics and Practical Considerations** | Addresses ethical issues and practical considerations related to the use of multimodal language models. Includes topics like bias mitigation, privacy concerns, transparency, and the societal impact of AI-generated content.                 |
 
 
 ## Education
