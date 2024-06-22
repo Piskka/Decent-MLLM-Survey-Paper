@@ -175,7 +175,6 @@ Below is a table indicating the papers cited in the survey:
 | 32 | Generative Multimodal Models are In-Context Learners                                            | This paper examines the concept of generative multimodal models as in-context learners, capable of adapting to new tasks and data without extensive retraining. It discusses how these models can leverage context from multimodal inputs, including text and images, to generate relevant and coherent outputs.                                                                      |
 | 36 | Taking the Next Step with MLLM | This paper investigates the advancements in MLLMs and their potential applications in various domains. It highlights the next steps in the development and utilization of these models. 
                                                      |
-
 | 38 | PMG: Personalized Multimodal Generation with Large Language Models  | Introduces PMG, a method for personalized multimodal generation using large language models (LLMs). PMG converts user behaviors into natural language to generate personalized content. |
 
 ## Ethics and Practical Considerations
