@@ -50,7 +50,7 @@ MLLMs support various aspects of STEM education, offering innovative tools and s
 - **Case study:** The implementation of virtual labs in a high school physics curriculum has led to increased student comprehension and interest.
 - **Evaluation:** Surveys indicate that students using MLLM-based STEM tools outperform their peers in traditional learning environments.
 
-## Interactive Educational Content Creation[?]
+## Interactive Educational Content Creation[38]
 
 MLLMs facilitate the creation of multimodal educational materials, enriching the learning experience:
 
@@ -77,7 +77,7 @@ Advancements in MLLM technology hold promise for even greater impact in educatio
 - Improved integration of multimodal data for more accurate and context-aware outputs.
 - Enhanced personalisation features, tailoring educational experiences to individual learner needs.
 
-### Emerging Trends[16,18,27,28,35]
+### Emerging Trends[16,18,27,28,35,38]
 Emerging trends in personalised and adaptive learning point to a future where education is increasingly tailored to the learner:
 
 - Greater emphasis on adaptive learning technologies that adjust content based on learner performance and preferences.
