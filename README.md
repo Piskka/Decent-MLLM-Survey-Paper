@@ -1,28 +1,28 @@
 # Survey on Multimodal Large Language Models (MLLMs) in Education
 
 ## Abstract
-This survey paper explores the objectives, methods, and key findings related to the application of Multimodal Large Language Models (MLLMs) in education. We investigate how MLLMs, integrating various data modalities, enhance educational experiences across language learning, STEM education, and interactive content creation. Key findings highlight significant improvements in engagement and learning outcomes facilitated by MLLMs. Future directions suggest advancements in technology and personalised learning trends. This survey underscores the transformative potential of MLLMs in modern education and calls for further research and development.
+This survey paper explores the objectives, methods, and key findings related to the application of Multimodal Large Language Models (MLLMs) in education. We investigate how MLLMs, integrating various data modalities, enhance educational experiences across language learning, STEM education, interactive content creation and Medicine/Healthcare Education. Key findings highlight significant improvements in engagement and learning outcomes facilitated by MLLMs. Future directions suggest advancements in technology and personalised learning trends. This survey underscores the transformative potential of MLLMs in modern education and calls for further research and development.
 
 ## 1. Introduction
 
-### Background
+### Background[1,2,3,23]
 The integration of technology in education has revolutionised the learning experience, offering tools and platforms that enhance accessibility, engagement, and understanding. From early computer-assisted learning to contemporary AI-driven educational applications, technology's role has been pivotal in transforming traditional educational paradigms.
 
-### Introduction to MLLMs
+### Introduction to MLLMs[13]
 Multimodal Large Language Models (MLLMs) represent the latest advancement in AI technology, capable of processing and generating human-like text by integrating various data modalities such as text, images, and sounds. These models leverage large datasets and sophisticated neural networks to understand and produce contextually relevant content across different formats.
 
-### Scope and Objectives
+### Scope and Objectives[4,5,6]
 This survey aims to provide a comprehensive overview of MLLMs, examining their components, technologies, and prominent examples. We delve into their applications in education, particularly in language learning, STEM education, and interactive content creation. The objective is to assess the current landscape, evaluate their effectiveness, and explore future opportunities for enhancing educational outcomes.
 
 ## 2. Overview of MLLMs
 
-### Definition and Explanation
+### Definition and Explanation[13,17,18]
 Multimodal Large Language Models (MLLMs) are advanced AI systems designed to process and understand information across multiple modalities, including text, images, and audio. By integrating these diverse data types, MLLMs can generate more nuanced and contextually appropriate responses, making them valuable for a wide range of applications.
 
-### Key Components and Technologies
+### Key Components and Technologies[13,28]
 The core components of MLLMs include neural networks, particularly transformer architectures, which enable the processing and integration of multimodal data. Key technologies involve data integration techniques that allow these models to combine and interpret information from various sources, enhancing their overall understanding and output quality.
 
-### Examples of Prominent MLLMs
+### Examples of Prominent MLLMs[13]
 Several notable MLLMs have emerged, showcasing the potential of this technology:
 
 - **CLIP (Contrastive Language–Image Pretraining)**: Developed by OpenAI, CLIP can understand and generate text based on image inputs, bridging the gap between visual and textual data.
@@ -30,9 +30,6 @@ Several notable MLLMs have emerged, showcasing the potential of this technology:
 - **GPT-4**: The latest iteration of the Generative Pre-trained Transformer series, GPT-4 excels in text generation and understanding, incorporating multimodal capabilities to enhance its performance.
 
 ## 3. Applications of MLLMs in Education
-
-### Language Learning
-MLLMs offer various applications in language learning, enhancing the interactive and immersive experience:
 
 ## Language Learning
 
@@ -62,7 +59,7 @@ MLLMs facilitate the creation of multimodal educational materials, enriching the
 - **Case study:** H5P has been effectively used to create interactive and multimedia-rich educational content, demonstrating the power of MLLMs in content creation.
 - **Evaluation:** Feedback from educators and students highlights the increased engagement and retention rates when using multimodal educational materials.
 
-## Medicine/Healthcare Education
+## Medicine/Healthcare Education[7,8,9,10,21]
 
 MLLMs are revolutionising medical education by providing advanced tools for learning and training:
 
@@ -74,13 +71,13 @@ MLLMs are revolutionising medical education by providing advanced tools for lear
 
 ## 4. Future Directions and Opportunities
 
-### Potential Advancements
+### Potential Advancements[29,30,31,32]
 Advancements in MLLM technology hold promise for even greater impact in education:
 
 - Improved integration of multimodal data for more accurate and context-aware outputs.
 - Enhanced personalisation features, tailoring educational experiences to individual learner needs.
 
-### Emerging Trends
+### Emerging Trends[18,27,28]
 Emerging trends in personalised and adaptive learning point to a future where education is increasingly tailored to the learner:
 
 - Greater emphasis on adaptive learning technologies that adjust content based on learner performance and preferences.
@@ -94,7 +91,7 @@ This survey highlights the transformative potential of MLLMs in education, demon
 ### Final Thoughts
 The integration of MLLMs in education represents a significant step forward, offering tools and resources that enhance the learning experience. However, challenges such as ethical considerations and the need for continuous evaluation must be addressed to ensure the responsible use of this technology.
 
-### Call to Action
+### Call to Action[33]
 Further research and development are essential to fully realise the potential of MLLMs in education. Collaboration between educators, technologists, and policymakers will be crucial in shaping the future of education in the age of AI.
 
 ## 6. References
@@ -102,7 +99,7 @@ Below is a table indicating the papers cited in the survey:
 
 # Research Papers on Multimodal Large Language Models
 
-1.Education
+1.Education(Language/STEM)
 2.Medicine/Healthcare
 3.Multimodal Language Models
 4.Evaluation and Benchmarking
@@ -129,18 +126,18 @@ Below is a table indicating the papers cited in the survey:
 | 7  | ChatGPT for Shaping the Future of Dentistry                                                     | This article explores how ChatGPT and similar large language models can be utilized in the field of dentistry. It highlights potential applications such as patient education, diagnostic assistance, and administrative tasks, as well as discussing the challenges and ethical considerations associated with their use.                                                        |
 | 8  | A Comprehensive Survey of LLM and MLLM in Medicine                                              | A survey of large language models (LLMs) and multimodal language models (MLLMs) in the field of medicine, this document reviews their applications, benefits, and challenges. It discusses how these models can support medical research, diagnostics, and patient care, while also addressing ethical and practical concerns.                                                    |
 | 9  | AI and Heart Failure: Present State and Future With Multimodal Large Language Models             | This paper explores the application of AI and multimodal large language models in managing heart failure. It highlights the potential of AI to revolutionize healthcare by integrating large quantities of clinical data and using it for complex decision-making. The paper provides a case study of a patient with heart failure and discusses how AI tools could improve diagnosis and management. |
-| 10 | Exploring the Potential of Multimodal LLM with Unknown                                          | This paper investigates the potential applications of multimodal large language models (LLMs) across various domains. It examines how these models can be used to enhance the understanding and generation of content involving multiple modalities, such as text, images, and videos.                                                                                           |
+| 10 | A Comprehensive Survey of LLM and MLLM in Medicine                                              | A survey of large language models (LLMs) and multimodal language models (MLLMs) in the field of medicine, this document reviews their applications, benefits, and challenges. It discusses how these models can support medical research, diagnostics, and patient care, while also addressing ethical and practical concerns.                                                    |
+                                                                                       |
 
 ## Multimodal Language Models
 
 | #  | Title                                                                                           | Summary                                                                                                                                                                                                                                                                                                                                                                    |
 |----|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11 | A Comprehensive Survey of LLM and MLLM in Medicine                                              | A survey of large language models (LLMs) and multimodal language models (MLLMs) in the field of medicine, this document reviews their applications, benefits, and challenges. It discusses how these models can support medical research, diagnostics, and patient care, while also addressing ethical and practical concerns.                                                    |
+| 11 | Exploring the Potential of Multimodal LLM with Unknown                                          | This paper investigates the potential applications of multimodal large language models (LLMs) across various domains. It examines how these models can be used to enhance the understanding and generation of content involving multiple modalities, such as text, images, and videos.    
 | 12 | A Multilingual Language Model with Progressively Enhanced Capabilities                          | InternLM is presented as a multilingual foundational language model with 104B parameters. The document details its training on a large corpus with 1.6T tokens, its evaluation on various benchmarks, and its performance compared to other models like ChatGPT. The model shows strong capabilities in knowledge understanding, reading comprehension, and other tasks.              |
 | 13 | A Survey on Multimodal Large Language Models                                                    | This survey focuses on multimodal large language models that integrate text with other types of data such as images and audio. It reviews the state-of-the-art models, their architectures, training methods, and applications. The document also addresses the challenges and potential of these models in handling multimodal information.                                      |
 | 14 | SEED-Bench: Benchmarking Multimodal Large Language Models                                       | The paper introduces SEED-Bench, a comprehensive benchmark for evaluating multimodal large language models (MLLMs) across hierarchical capability levels (L0 to L4). SEED-Bench assesses models' abilities to generate and comprehend both text and images through 24K multiple-choice questions spanning 27 dimensions. The benchmark evaluates 22 prominent MLLMs.                |
 | 15 | LLaVA-Docent: Instruction Tuning with Multimodal Large Language Model to Support Art Appreciation Education | The paper discusses LLaVA-Docent, a multimodal large language model designed to enhance art appreciation education through instruction tuning. This model leverages both visual and textual data to provide comprehensive support in understanding and appreciating art.                                                                                                          |
-| 16 | AI and Heart Failure: Present State and Future With Multimodal Large Language Models             | This paper explores the application of AI and multimodal large language models in managing heart failure. It highlights the potential of AI to revolutionize healthcare by integrating large quantities of clinical data and using it for complex decision-making. The paper provides a case study of a patient with heart failure and discusses how AI tools could improve diagnosis and management. |
 | 17 | Exploring the Potential of Multimodal LLM with Unknown                                          | This paper investigates the potential applications of multimodal large language models (LLMs) across various domains. It examines how these models can be used to enhance the understanding and generation of content involving multiple modalities, such as text, images, and videos.                                                                                           |
 | 18 | Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions | This paper provides an in-depth analysis of multimodal machine learning, discussing its foundational principles, current challenges, and open research questions. It covers the integration of multiple data modalities, such as text, images, and audio, into a unified machine learning framework.                                                                              |
 | 19 | Generating Images with Multimodal Language Models                                               | This paper explores the capabilities of multimodal language models in generating images based on textual descriptions. It discusses the underlying mechanisms that allow these models to interpret and visualize textual inputs, producing corresponding images. The study aims to demonstrate the potential of multimodal language models in creative applications, such as digital art. |
@@ -177,7 +174,4 @@ Below is a table indicating the papers cited in the survey:
 
 | #  | Title                                                                                           | Summary                                                                                                                                                                                                                                                                                                                                                                    |
 |----|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 33 | Practical and Ethical Challenges of Large Language Models in Education                         | This review discusses the practical and ethical challenges associated with the use of large language models in education. It covers the benefits, potential risks, and considerations for implementation, providing a systematic scoping review of current research and practices.                                                                                               |
-| 34 | ChatGPT for Shaping the Future of Dentistry                                                     | This article explores how ChatGPT and similar large language models can be utilized in the field of dentistry. It highlights potential applications such as patient education, diagnostic assistance, and administrative tasks, as well as discussing the challenges and ethical considerations associated with their use.                                                        |
-| 35 | A Comprehensive Survey of LLM and MLLM in Medicine                                              | A survey of large language models (LLMs) and multimodal language models (MLLMs) in the field of medicine, this document reviews their applications, benefits, and challenges. It discusses how these models can support medical research, diagnostics, and patient care, while also addressing ethical and practical concerns.                                                    |
-| 36 | A Survey on LLM-Generated Text Detection  
+| 33 | Practical and Ethical Challenges of Large Language Models in Education                         | This review discusses the practical and ethical challenges associated with the use of large language models in education. It covers the benefits, potential risks, and considerations for implementation, providing a systematic scoping review of current research and practices.                                                                                               |                                                 |
