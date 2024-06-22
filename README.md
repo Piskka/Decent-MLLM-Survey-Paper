@@ -31,7 +31,7 @@ Several notable MLLMs have emerged, showcasing the potential of this technology:
 
 ## 3. Applications of MLLMs in Education
 
-## Language Learning
+## Language Learning[25,37]
 
 MLLMs offer various applications in language learning, enhancing the interactive and immersive experience:
 
@@ -41,7 +41,7 @@ MLLMs offer various applications in language learning, enhancing the interactive
 - **Case study:** Duolingo's use of AI for rapid lesson generation demonstrates the efficiency and effectiveness of MLLM-powered content creation.
 - **Evaluation:** Studies indicate significant improvements in learner outcomes when utilising MLLM-based tools compared to traditional methods.
 
-## STEM Education (Science, Technology, Engineering, and Mathematics)
+## STEM Education (Science, Technology, Engineering, and Mathematics)[34]
 
 MLLMs support various aspects of STEM education, offering innovative tools and simulations:
 
@@ -77,7 +77,7 @@ Advancements in MLLM technology hold promise for even greater impact in educatio
 - Improved integration of multimodal data for more accurate and context-aware outputs.
 - Enhanced personalisation features, tailoring educational experiences to individual learner needs.
 
-### Emerging Trends[18,27,28]
+### Emerging Trends[16,18,27,28,35]
 Emerging trends in personalised and adaptive learning point to a future where education is increasingly tailored to the learner:
 
 - Greater emphasis on adaptive learning technologies that adjust content based on learner performance and preferences.
@@ -88,7 +88,7 @@ Emerging trends in personalised and adaptive learning point to a future where ed
 ### Summary of Key Insights
 This survey highlights the transformative potential of MLLMs in education, demonstrating their effectiveness in language learning, STEM education, and content creation. MLLMs have shown significant improvements in learner engagement, comprehension, and overall educational outcomes.
 
-### Final Thoughts
+### Final Thoughts[36]
 The integration of MLLMs in education represents a significant step forward, offering tools and resources that enhance the learning experience. However, challenges such as ethical considerations and the need for continuous evaluation must be addressed to ensure the responsible use of this technology.
 
 ### Call to Action[33]
@@ -118,6 +118,8 @@ Below is a table indicating the papers cited in the survey:
 | 4  | Large Language Models in Education: A Focus on the Complementary Relationship Between Human Teachers and ChatGPT | This paper explores the integration of large language models, such as ChatGPT, in educational settings. It emphasizes the complementary relationship between human teachers and AI, highlighting how AI can enhance the teaching process by providing personalized support, automating administrative tasks, and offering new educational resources.                                      |
 | 5  | Large Language Models in Education: Vision and Opportunities                                   | This paper presents a vision for the future of education enhanced by large language models. It outlines the opportunities these models offer, such as personalized learning experiences, automated grading, and enriched educational content. The paper discusses the potential impact of AI on various aspects of education, including curriculum development and student engagement.     |
 | 6  | On the Application of Large Language Models for Language Teaching and Assessment Technology     | The paper explores the use of large language models in language teaching and assessment. It highlights the benefits of using these models to enhance personalized learning experiences and improve the accuracy of language assessments.                                                                                                                                        |
+| 34  | Taking the Next Step with Generative Artificial Intelligence: The Transformative Role of Multimodal Large Language Models in Science Education | This paper explores the transformative role of Multimodal Large Language Models (MLLMs) in science education. It discusses the integration of MLLMs like GPT-4V, capable of processing multimodal data, to enhance teaching and learning. The paper highlights applications in content creation, personalized support, scientific practices, and assessment, while addressing challenges such as data protection and ethical considerations. |
+| 37 | Large Multilingual Models Pivot Zero-Shot Multimodal Learning Across Languages | This paper presents MPM, a training paradigm that enables large multimodal models to leverage English multimodal data for training, thus effectively generalizing to other languages with minimal additional data. MPM is validated through the development of VISCPM, a Chinese multimodal model, demonstrating state-of-the-art performance in zero-shot image-to-text and text-to-image tasks. 
 
 ## Medicine/Healthcare
 
@@ -138,10 +140,13 @@ Below is a table indicating the papers cited in the survey:
 | 13 | A Survey on Multimodal Large Language Models                                                    | This survey focuses on multimodal large language models that integrate text with other types of data such as images and audio. It reviews the state-of-the-art models, their architectures, training methods, and applications. The document also addresses the challenges and potential of these models in handling multimodal information.                                      |
 | 14 | SEED-Bench: Benchmarking Multimodal Large Language Models                                       | The paper introduces SEED-Bench, a comprehensive benchmark for evaluating multimodal large language models (MLLMs) across hierarchical capability levels (L0 to L4). SEED-Bench assesses models' abilities to generate and comprehend both text and images through 24K multiple-choice questions spanning 27 dimensions. The benchmark evaluates 22 prominent MLLMs.                |
 | 15 | LLaVA-Docent: Instruction Tuning with Multimodal Large Language Model to Support Art Appreciation Education | The paper discusses LLaVA-Docent, a multimodal large language model designed to enhance art appreciation education through instruction tuning. This model leverages both visual and textual data to provide comprehensive support in understanding and appreciating art.                                                                                                          |
+| 16  | Modularization Empowers Large Language Models with Multimodality | This paper introduces mPLUG-Owl, a novel training paradigm that enhances large language models (LLMs) with multimodal capabilities through modularized learning. It involves a two-stage training scheme that integrates visual knowledge and textual data, demonstrating impressive abilities in multi-modal instruction understanding, visual understanding, multi-turn conversation, and knowledge reasoning. The model outperforms existing multi-modal models and showcases unexpected capabilities like multi-image correlation and scene text understanding. |
+
 | 17 | Exploring the Potential of Multimodal LLM with Unknown                                          | This paper investigates the potential applications of multimodal large language models (LLMs) across various domains. It examines how these models can be used to enhance the understanding and generation of content involving multiple modalities, such as text, images, and videos.                                                                                           |
 | 18 | Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions | This paper provides an in-depth analysis of multimodal machine learning, discussing its foundational principles, current challenges, and open research questions. It covers the integration of multiple data modalities, such as text, images, and audio, into a unified machine learning framework.                                                                              |
 | 19 | Generating Images with Multimodal Language Models                                               | This paper explores the capabilities of multimodal language models in generating images based on textual descriptions. It discusses the underlying mechanisms that allow these models to interpret and visualize textual inputs, producing corresponding images. The study aims to demonstrate the potential of multimodal language models in creative applications, such as digital art. |
 | 20 | Generative Multimodal Models are In-Context Learners                                            | This paper examines the concept of generative multimodal models as in-context learners, capable of adapting to new tasks and data without extensive retraining. It discusses how these models can leverage context from multimodal inputs, including text and images, to generate relevant and coherent outputs.                                                                      |
+| 35  | Multimodal Classification: Current Landscape, Taxonomy and Future Directions | This paper addresses the challenges in multimodal classification by proposing a new taxonomy for describing multimodal classification models. It reviews the benefits of combining data from multiple sources and the development of novel multimodal architectures. The paper provides examples of applying the taxonomy to existing models, discusses challenges such as big data, class imbalance, and instance-level difficulty, and offers future research directions. |
 
 ## Evaluation and Benchmarking
 
@@ -169,6 +174,10 @@ Below is a table indicating the papers cited in the survey:
 | 30 | Exploring the Potential of Multimodal LLM with Unknown                                          | This paper investigates the potential applications of multimodal large language models (LLMs) across various domains. It examines how these models can be used to enhance the understanding and generation of content involving multiple modalities, such as text, images, and videos.                                                                                           |
 | 31 | Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions | This paper provides an in-depth analysis of multimodal machine learning, discussing its foundational principles, current challenges, and open research questions. It covers the integration of multiple data modalities, such as text, images, and audio, into a unified machine learning framework.                                                                              |
 | 32 | Generative Multimodal Models are In-Context Learners                                            | This paper examines the concept of generative multimodal models as in-context learners, capable of adapting to new tasks and data without extensive retraining. It discusses how these models can leverage context from multimodal inputs, including text and images, to generate relevant and coherent outputs.                                                                      |
+| 36 | Taking the Next Step with MLLM | This paper investigates the advancements in MLLMs and their potential applications in various domains. It highlights the next steps in the development and utilization of these models. 
+                                                     |
+
+| 38 | PMG: Personalized Multimodal Generation with Large Language Models  | Introduces PMG, a method for personalized multimodal generation using large language models (LLMs). PMG converts user behaviors into natural language to generate personalized content. |
 
 ## Ethics and Practical Considerations
 
