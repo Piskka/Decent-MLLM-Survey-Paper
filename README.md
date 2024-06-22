@@ -12,7 +12,7 @@ The integration of technology in education has revolutionised the learning exper
 Multimodal Large Language Models (MLLMs) represent the latest advancement in AI technology, capable of processing and generating human-like text by integrating various data modalities such as text, images, and sounds. These models leverage large datasets and sophisticated neural networks to understand and produce contextually relevant content across different formats.
 
 ### Scope and Objectives[4,5,6]
-This survey aims to provide a comprehensive overview of MLLMs, examining their components, technologies, and prominent examples. We delve into their applications in education, particularly in language learning, STEM education, and interactive content creation. The objective is to assess the current landscape, evaluate their effectiveness, and explore future opportunities for enhancing educational outcomes.
+This survey aims to provide a comprehensive overview of MLLMs in education, examining their components, technologies, and prominent examples. We delve into their applications in education, particularly in language learning, STEM education, and interactive content creation. The objective is to assess the current landscape, evaluate their effectiveness, and explore future opportunities for enhancing educational outcomes.
 
 ## 2. Overview of MLLMs
 
@@ -50,7 +50,7 @@ MLLMs support various aspects of STEM education, offering innovative tools and s
 - **Case study:** The implementation of virtual labs in a high school physics curriculum has led to increased student comprehension and interest.
 - **Evaluation:** Surveys indicate that students using MLLM-based STEM tools outperform their peers in traditional learning environments.
 
-## Interactive Educational Content Creation
+## Interactive Educational Content Creation[?]
 
 MLLMs facilitate the creation of multimodal educational materials, enriching the learning experience:
 
